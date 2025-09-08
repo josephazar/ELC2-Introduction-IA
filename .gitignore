@@ -1,7 +1,22 @@
 html-slides-for-programming-main
 comments.txt
+.DS_Store
 
 A Comprehensive Report on the History and Taxonomy of Artificial Intelligence.md
 ai_research_notes.md
 dl.md
+script_data_preprocessing.md
+images 
+*.html 
+*.png 
 
+
+venv
+requirements.txt 
+
+
+data_preprocessing_example.py
+exercise1_01.py
+exercise1_02.py
+Introduction au Machine Learning et Préparation des Données - Joseph Azar.pdf
+Introduction à l'Intelligence Artificielle - Joseph Azar.pdf
