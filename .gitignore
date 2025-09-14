@@ -16,4 +16,5 @@ requirements.txt
 
 
 data_preprocessing_example.py
+titanic_preprocessing_solution.py
 
