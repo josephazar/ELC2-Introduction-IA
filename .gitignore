@@ -18,3 +18,27 @@ requirements.txt
 titanic_preprocessing_solution.py
 
 Machine-Learning-A-Z-Codes-Datasets
+
+generate_sigmoid.py
+generate_kmeans_steps.py
+kmeans_*.png
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+SOLUTION_PROFESSEUR.md
+UTILISATION.md
+README.md
+INDEX.md
+
+generate_movie_recommendation_data.py
+generate_clustering_viz.py
+generate_elbow_method.py
+hierarchical_*.png
+dbscan_*.png
+elbow_*.png
+
+generate_elbow_method.py
+generate_ecommerce_segmentation.py
+clients_ecommerce_solution.csv
